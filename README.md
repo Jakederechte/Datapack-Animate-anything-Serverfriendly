@@ -7,5 +7,5 @@ Then try it out!
 
  
 
-If you need a good and cheap Minecraft server, be sure to check out my partner Kinetic Hosting
-https://billing.kinetichosting.net/index.php?rp=/store/budget
+If you need a good and cheap Minecraft server, be sure to check out my partner Kinetic Hosting:
+  https://billing.kinetichosting.net/index.php?rp=/store/budget
