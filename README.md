@@ -10,4 +10,5 @@ Then try it out!
 If you need a good and cheap Minecraft server, be sure to check out my partner Kinetic Hosting:
   
   
-  Hier folgt ein(https://billing.kinetichosting.net/index.php?rp=/store/budget"Link").
+[![Hier ist ein Beispielbild](https://cdn.discordapp.com/attachments/1054427268027523092/1065049639839088760/mcmetanatives.png)](https://billing.kinetichosting.net/index.php?rp=/store/budget)
+
